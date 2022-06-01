@@ -1,0 +1,12 @@
+23.10. Started google's tutorial at udacity https://www.udacity.com/course/new-android-fundamentals--ud851. Finished Lesson 1. Troubles getting the emulator to work.
+24.10. Finished Lessons 2 (activities) and 4 (intents). Started own Project with simple menu.
+27.10. Tried and experimented implementing the menu with BottomNavigationBar
+28.10. Redo of menu with Tabs/Toolbar/Pageviewer
+02.11. content and base logic of add entry tab
+06.11. content and base logic of search tab and edit entry activity
+08.11. ui of edit entry and passing of whole object in intent
+15.11. udacity course about building url and server connection
+19.11. initial serversetup
+23.11. add entry server call
+30.11. search server call
+12.12. Edit Entry and Updating Entries server calls

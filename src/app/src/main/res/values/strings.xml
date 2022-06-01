@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Amiok</string>
+    <string name="new_entry">New</string>
+    <string name="tracked_entries">Tracked</string>
+    <string name="search_entry">Search</string>
+    <string name="server_domain">videolobby.tv</string>
+    <string name="subfolder_domain">amiok</string>
+    <string name="filename_domain">dbcon.php</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
