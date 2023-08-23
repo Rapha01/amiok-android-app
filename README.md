@@ -1,4 +1,5 @@
 # amiok-android-app
+Android App for automated personal health status check.
 
 ### Main Idea
 I want to create an app (deskop browser and mobile) where people can, with a few clicks, setup an automated help searching mechanism. That is, that person can create an „entry“, consisting of a name, a timeintervall, a password, optionally an email with a message. That name can then be searched and found in the app for other people, showing them that the entry-creator is„alright“. As soon as the entry-creator doesn't refresh or delete the entry within the given timeintervall by entering it's password again, it's status will be marked „not alright“. Then also other linked communication channels will trigger (f.e. The message will be sent to given email). People can „track“ other entries to keep them at hand. This can be the persons own entry for fast resfreshing it or other persons entries to keep on being informed about their status.
